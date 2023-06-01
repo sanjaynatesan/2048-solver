@@ -4,4 +4,4 @@ This project uses a multi-heuristic AI approach to automatically solve 2048. Som
 
 This program does not use any non-standard Python packages.
 
-To run this program, run GameManager.py
+To run this program, run GameManager.py using Python3
